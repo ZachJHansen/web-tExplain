@@ -1,0 +1,7 @@
+1 Daniel went to the bedroom.
+2 Daniel picked up the apple there.
+3 Mary grabbed the milk there.
+4 Mary left the milk.
+5 John journeyed to the office.
+6 Daniel put down the apple there.
+7 Where is the apple? 	bedroom	6 1

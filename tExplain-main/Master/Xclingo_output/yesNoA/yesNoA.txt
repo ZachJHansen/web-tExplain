@@ -1,0 +1,25 @@
+Answer 1
+  *
+  |__NO  sandra is not located at hallway in sentence 2
+  |  |__sandra moved to bedroom in sentence 2
+
+Answer 1
+  *
+  |__NO  daniel is not located at bathroom in sentence 4
+  |  |__daniel moved to hallway in sentence 5
+
+Answer 1
+  *
+  |__NO  daniel is not located at office in sentence 6
+  |  |__daniel moved to bathroom in sentence 8
+
+Answer 1
+  *
+  |__YES daniel is located at bedroom in sentence 8
+  |  |__daniel moved to bedroom in sentence 11
+
+Answer 1
+  *
+  |__YES daniel is located at bedroom in sentence 10
+  |  |__daniel moved to bedroom in sentence 11
+

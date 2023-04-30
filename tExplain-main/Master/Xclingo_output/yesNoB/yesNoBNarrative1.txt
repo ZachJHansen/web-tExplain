@@ -1,0 +1,5 @@
+Answer 1
+  *
+  |__YES mary is located at bedroom in sentence 2
+  |  |__mary moved to bedroom in sentence 2
+

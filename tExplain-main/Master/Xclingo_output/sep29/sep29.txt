@@ -1,0 +1,6 @@
+Answer 1
+  *
+  |__Location of mary before bathroom : office in sentence 2
+  |  |__mary moved to office in sentence 1
+  |  |__mary moved to bathroom in sentence 2
+

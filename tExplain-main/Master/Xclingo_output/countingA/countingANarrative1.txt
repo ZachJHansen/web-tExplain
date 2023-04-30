@@ -1,0 +1,4 @@
+Answer 1
+  *
+  |__mary is holding 1 items at time point 4
+

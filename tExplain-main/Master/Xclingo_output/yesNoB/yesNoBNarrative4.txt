@@ -1,0 +1,5 @@
+Answer 1
+  *
+  |__NO  sandra is not located at bathroom in sentence 8
+  |  |__sandra moved to bedroom in sentence 7
+

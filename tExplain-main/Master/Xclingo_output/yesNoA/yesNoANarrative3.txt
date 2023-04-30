@@ -1,0 +1,5 @@
+Answer 1
+  *
+  |__NO  daniel is not located at office in sentence 6
+  |  |__daniel moved to bathroom in sentence 8
+

@@ -1,0 +1,20 @@
+Answer 1
+  *
+  |__Location of apple before garden : bathroom
+  |  |__daniel moved to bathroom in sentence 15
+  |  |__daniel moved to garden in sentence 20
+  |  |__since daniel obtained the apple in sentence 11
+
+  *
+  |__Location of apple before garden : bathroom
+  |  |__daniel moved to bathroom in sentence 15
+  |  |__daniel moved to garden in sentence 20
+  |  |__since daniel obtained the apple in sentence 11
+  |  |__since daniel dropped the apple in sentence 29
+
+  *
+  |__Location of apple before garden : bathroom
+  |  |__daniel moved to bathroom in sentence 15
+  |  |__daniel moved to garden in sentence 20
+  |  |__since daniel dropped the apple in sentence 29
+

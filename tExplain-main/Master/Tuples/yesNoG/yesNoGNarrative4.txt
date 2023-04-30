@@ -1,0 +1,24 @@
+John picked up the football there.
+John dropped the football.
+Mary got the apple there.
+Mary left the apple.
+John grabbed the football there.
+Daniel picked up the milk there.
+John got the apple there.
+John discarded the football there.
+Sandra took the football there.
+Sandra discarded the football there.
+Sandra got the football there.
+Daniel dropped the milk.
+Daniel picked up the milk there.
+John left the apple.
+John took the apple there.
+Sandra left the football.
+Mary journeyed to the hallway.
+John went back to the office.
+Mary went to the kitchen.
+John left the apple there.
+John went back to the kitchen.
+Daniel discarded the milk.
+Daniel got the milk there.
+Sandra moved to the garden.

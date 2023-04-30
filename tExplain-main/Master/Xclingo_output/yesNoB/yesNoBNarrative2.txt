@@ -1,0 +1,5 @@
+Answer 1
+  *
+  |__NO  sandra is not located at office in sentence 4
+  |  |__sandra moved to hallway in sentence 4
+

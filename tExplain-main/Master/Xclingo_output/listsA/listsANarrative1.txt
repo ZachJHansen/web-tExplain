@@ -1,0 +1,5 @@
+Answer 1
+  *
+  |__mary is holding football
+  |  |__since mary obtained the football in sentence 3
+

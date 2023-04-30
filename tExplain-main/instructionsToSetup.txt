@@ -1,0 +1,9 @@
+cd resources/srl-20131216/scripts/
+sh run_http_server.sh 8071 '../../models/eng/'
+
+
+cd resources/stanford-corenlp-full-2018-10-05/
+java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9001 -timeout 45000
+
+
+./logic .txt file

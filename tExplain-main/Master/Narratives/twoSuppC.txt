@@ -1,0 +1,19 @@
+1 Mary went back to the hallway.
+2 Mary took the apple there.
+3 Mary dropped the apple.
+4 Daniel moved to the garden.
+5 Where is the apple? 	hallway	3 1
+6 Daniel went to the bathroom.
+7 Mary took the apple there.
+8 Daniel went back to the bedroom.
+9 Mary journeyed to the kitchen.
+10 Where is the apple? 	kitchen	7 9
+11 Mary went back to the hallway.
+12 Mary put down the apple.
+13 Where is the apple? 	hallway	12 11
+14 Sandra went back to the hallway.
+15 John journeyed to the office.
+16 Where is the apple? 	hallway	12 11
+17 Mary grabbed the apple there.
+18 Mary discarded the apple.
+19 Where is the apple? 	hallway	18 11

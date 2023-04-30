@@ -1,0 +1,50 @@
+Answer 1
+  *
+  |__apple is located at bedroom
+  |  |__sandra moved to bedroom in sentence 3
+  |  |__since sandra dropped the apple in sentence 4
+
+  *
+  |__apple is located at bedroom
+  |  |__sandra moved to bedroom in sentence 3
+  |  |__since sandra obtained the apple in sentence 1
+
+Answer 1
+  *
+  |__apple is located at bedroom
+  |  |__sandra moved to bedroom in sentence 3
+  |  |__since sandra dropped the apple in sentence 4
+
+  *
+  |__apple is located at bedroom
+  |  |__sandra moved to bedroom in sentence 3
+  |  |__since sandra obtained the apple in sentence 1
+
+Answer 1
+  *
+  |__apple is located at bedroom
+  |  |__sandra moved to bedroom in sentence 3
+  |  |__since sandra dropped the apple in sentence 4
+
+  *
+  |__apple is located at bedroom
+  |  |__sandra moved to bedroom in sentence 3
+  |  |__since sandra obtained the apple in sentence 1
+
+Answer 1
+  *
+  |__football is located at kitchen
+  |  |__sandra moved to kitchen in sentence 15
+  |  |__since sandra obtained the football in sentence 14
+
+Answer 1
+  *
+  |__football is located at kitchen
+  |  |__sandra moved to kitchen in sentence 15
+  |  |__since sandra obtained the football in sentence 14
+
+  *
+  |__football is located at kitchen
+  |  |__sandra moved to kitchen in sentence 15
+  |  |__since sandra dropped the football in sentence 17
+

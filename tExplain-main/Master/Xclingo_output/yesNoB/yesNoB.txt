@@ -1,0 +1,25 @@
+Answer 1
+  *
+  |__YES mary is located at bedroom in sentence 2
+  |  |__mary moved to bedroom in sentence 2
+
+Answer 1
+  *
+  |__NO  sandra is not located at office in sentence 4
+  |  |__sandra moved to hallway in sentence 4
+
+Answer 1
+  *
+  |__NO  sandra is not located at bathroom in sentence 6
+  |  |__sandra moved to garden in sentence 5
+
+Answer 1
+  *
+  |__NO  sandra is not located at bathroom in sentence 8
+  |  |__sandra moved to bedroom in sentence 7
+
+Answer 1
+  *
+  |__YES mary is located at kitchen in sentence 10
+  |  |__mary moved to kitchen in sentence 6
+

@@ -1,0 +1,15 @@
+1 Daniel grabbed the football there.
+2 Daniel gave the football to Sandra.
+3 How many objects is Daniel carrying? 	none	1 2
+4 Sandra gave the football to Daniel.
+5 Daniel passed the football to Sandra.
+6 How many objects is Sandra carrying? 	one	2 4 5
+7 Mary journeyed to the bathroom.
+8 Sandra handed the football to Daniel.
+9 How many objects is Daniel carrying? 	one	1 2 4 5 8
+10 Daniel handed the football to Sandra.
+11 Sandra dropped the football there.
+12 How many objects is Sandra carrying? 	none	2 4 5 8 10 11
+13 Daniel picked up the football there.
+14 Daniel passed the football to Sandra.
+15 How many objects is Daniel carrying? 	none	1 2 4 5 8 10 13 14

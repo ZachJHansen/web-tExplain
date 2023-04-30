@@ -1,0 +1,2 @@
+logicFileLocation='LogicPrograms'
+xclingoLocation='NewXclingoOutput'

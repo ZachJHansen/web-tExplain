@@ -1,0 +1,5 @@
+Answer 1
+  *
+  |__YES daniel is located at bedroom in sentence 10
+  |  |__daniel moved to bedroom in sentence 11
+

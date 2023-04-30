@@ -1,0 +1,4 @@
+1 Mary went to the bathroom.
+2 Mary took the ball.
+3 Mary travelled to the office.
+4 Where is the ball?

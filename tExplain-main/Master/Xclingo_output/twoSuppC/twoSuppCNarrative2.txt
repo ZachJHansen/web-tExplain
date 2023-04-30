@@ -1,0 +1,6 @@
+Answer 1
+  *
+  |__apple is located at kitchen in sentence 8
+  |  |__mary moved to kitchen in sentence 8
+  |  |__Since mary obtained the apple in sentence 6
+

@@ -1,0 +1,87 @@
+Answer 1
+  *
+  |__Location of football before bathroom : office
+  |  |__mary moved to office in sentence 5
+  |  |__mary moved to bathroom in sentence 17
+  |  |__since mary obtained the football in sentence 3
+
+  *
+  |__Location of football before bathroom : office
+  |  |__mary moved to office in sentence 5
+  |  |__mary moved to bathroom in sentence 17
+  |  |__since mary obtained the football in sentence 3
+  |  |__since mary dropped the football in sentence 23
+
+  *
+  |__Location of football before bathroom : office
+  |  |__mary moved to office in sentence 5
+  |  |__mary moved to bathroom in sentence 17
+  |  |__since mary dropped the football in sentence 23
+
+Answer 1
+  *
+  |__Location of football before bathroom : office
+  |  |__mary moved to office in sentence 5
+  |  |__mary moved to bathroom in sentence 17
+  |  |__since mary obtained the football in sentence 3
+
+  *
+  |__Location of football before bathroom : office
+  |  |__mary moved to office in sentence 5
+  |  |__mary moved to bathroom in sentence 17
+  |  |__since mary dropped the football in sentence 23
+
+  *
+  |__Location of football before bathroom : office
+  |  |__mary moved to office in sentence 5
+  |  |__mary moved to bathroom in sentence 17
+  |  |__since mary obtained the football in sentence 3
+  |  |__since mary dropped the football in sentence 23
+
+Answer 1
+  *
+  |__Location of apple before garden : bathroom
+  |  |__daniel moved to bathroom in sentence 15
+  |  |__daniel moved to garden in sentence 20
+  |  |__since daniel obtained the apple in sentence 11
+
+  *
+  |__Location of apple before garden : bathroom
+  |  |__daniel moved to bathroom in sentence 15
+  |  |__daniel moved to garden in sentence 20
+  |  |__since daniel obtained the apple in sentence 11
+  |  |__since daniel dropped the apple in sentence 29
+
+  *
+  |__Location of apple before garden : bathroom
+  |  |__daniel moved to bathroom in sentence 15
+  |  |__daniel moved to garden in sentence 20
+  |  |__since daniel dropped the apple in sentence 29
+
+Answer 1
+  *
+  |__Location of apple before garden : bathroom
+  |  |__daniel moved to bathroom in sentence 15
+  |  |__daniel moved to garden in sentence 20
+  |  |__since daniel obtained the apple in sentence 11
+
+  *
+  |__Location of apple before garden : bathroom
+  |  |__daniel moved to bathroom in sentence 15
+  |  |__daniel moved to garden in sentence 20
+  |  |__since daniel obtained the apple in sentence 11
+  |  |__since daniel dropped the apple in sentence 29
+
+  *
+  |__Location of apple before garden : bathroom
+  |  |__daniel moved to bathroom in sentence 15
+  |  |__daniel moved to garden in sentence 20
+  |  |__since daniel dropped the apple in sentence 29
+
+Answer 1
+  *
+  |__Location of milk before kitchen : hallway
+  |  |__sandra moved to hallway in sentence 44
+  |  |__sandra moved to kitchen in sentence 46
+  |  |__since sandra obtained the milk in sentence 42
+

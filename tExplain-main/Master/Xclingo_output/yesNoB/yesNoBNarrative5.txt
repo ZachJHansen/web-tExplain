@@ -1,0 +1,5 @@
+Answer 1
+  *
+  |__YES mary is located at kitchen in sentence 10
+  |  |__mary moved to kitchen in sentence 6
+

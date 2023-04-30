@@ -1,0 +1,5 @@
+Answer 1
+  *
+  |__sandra is holding milk
+  |  |__since sandra obtained the milk in sentence 12
+

@@ -1,0 +1,6 @@
+Answer 1
+  *
+  |__ball is located at office
+  |  |__mary moved to office in sentence 3
+  |  |__since mary obtained the ball in sentence 2
+

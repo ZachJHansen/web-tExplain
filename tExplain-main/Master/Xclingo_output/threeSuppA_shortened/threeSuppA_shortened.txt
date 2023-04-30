@@ -1,0 +1,20 @@
+Answer 1
+  *
+  |__Location of football before bathroom : office in sentence 3
+  |  |__mary moved to office in sentence 2
+  |  |__mary moved to bathroom in sentence 3
+  |  |__Since mary obtained the football in sentence 1
+  |  |__Since mary dropped the football in sentence 4
+
+  *
+  |__Location of football before bathroom : office in sentence 3
+  |  |__mary moved to office in sentence 2
+  |  |__mary moved to bathroom in sentence 3
+  |  |__Since mary dropped the football in sentence 4
+
+  *
+  |__Location of football before bathroom : office in sentence 3
+  |  |__mary moved to office in sentence 2
+  |  |__mary moved to bathroom in sentence 3
+  |  |__Since mary obtained the football in sentence 1
+

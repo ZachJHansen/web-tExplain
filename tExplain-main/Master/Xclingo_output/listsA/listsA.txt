@@ -1,0 +1,25 @@
+Answer 1
+  *
+  |__mary is holding football
+  |  |__since mary obtained the football in sentence 3
+
+Answer 1
+  *
+  |__mary is holding nothing
+  |  |__since mary dropped the football in sentence 7
+
+Answer 1
+  *
+  |__mary is holding football
+  |  |__since mary obtained the football in sentence 9
+
+Answer 1
+  *
+  |__sandra is holding milk
+  |  |__since sandra obtained the milk in sentence 12
+
+Answer 1
+  *
+  |__sandra is holding milk
+  |  |__since sandra obtained the milk in sentence 12
+

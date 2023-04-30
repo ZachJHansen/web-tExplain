@@ -1,0 +1,230 @@
+Answer 1
+  *
+  |__apple is located at hallway in sentence 4
+  |  |__mary moved to hallway in sentence 1
+  |  |__Since mary obtained the apple in sentence 2
+
+  *
+  |__apple is located at hallway in sentence 4
+  |  |__mary moved to hallway in sentence 1
+  |  |__Since mary dropped the apple in sentence 3
+
+Answer 1
+  *
+  |__apple is located at kitchen in sentence 8
+  |  |__mary moved to kitchen in sentence 8
+  |  |__Since mary obtained the apple in sentence 6
+
+Answer 1
+  *
+  |__apple is located at hallway in sentence 10
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 10
+
+  *
+  |__apple is located at hallway in sentence 10
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 6
+
+Answer 1
+  *
+  |__apple is located at hallway in sentence 10
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 6
+
+  *
+  |__apple is located at hallway in sentence 10
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 10
+
+Answer 1
+  *
+  |__apple is located at hallway in sentence 10
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 10
+
+  *
+  |__apple is located at hallway in sentence 10
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 6
+
+Answer 1
+  *
+  |__apple is located at hallway in sentence 12
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 10
+
+  *
+  |__apple is located at hallway in sentence 12
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 6
+
+Answer 1
+  *
+  |__apple is located at hallway in sentence 12
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 6
+
+  *
+  |__apple is located at hallway in sentence 12
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 10
+
+Answer 1
+  *
+  |__apple is located at hallway in sentence 12
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 10
+
+  *
+  |__apple is located at hallway in sentence 12
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 6
+
+Answer 1
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 6
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 10
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 14
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 13
+
+Answer 1
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 6
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 10
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 14
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 13
+
+Answer 1
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 6
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 10
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 14
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 13
+
+Answer 1
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 6
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 10
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 14
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 13
+
+Answer 1
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 6
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 10
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 14
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 13
+
+Answer 1
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 10
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 6
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 14
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 13
+
+Answer 1
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 10
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 6
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary relinquished the apple in sentence 14
+
+  *
+  |__apple is located at hallway in sentence 14
+  |  |__mary moved to hallway in sentence 9
+  |  |__Since mary obtained the apple in sentence 13
+

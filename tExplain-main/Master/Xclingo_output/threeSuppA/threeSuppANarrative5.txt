@@ -1,0 +1,7 @@
+Answer 1
+  *
+  |__Location of milk before kitchen : hallway
+  |  |__sandra moved to hallway in sentence 44
+  |  |__sandra moved to kitchen in sentence 46
+  |  |__since sandra obtained the milk in sentence 42
+

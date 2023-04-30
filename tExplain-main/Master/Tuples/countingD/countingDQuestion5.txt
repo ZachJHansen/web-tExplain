@@ -1,0 +1,1 @@
+How many objects is John carrying? 	two	10 16

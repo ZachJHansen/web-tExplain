@@ -1,0 +1,5 @@
+Answer 1
+  *
+  |__NO  daniel is not located at bathroom in sentence 4
+  |  |__daniel moved to hallway in sentence 5
+

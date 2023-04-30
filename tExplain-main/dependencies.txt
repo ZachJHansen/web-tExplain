@@ -1,0 +1,6 @@
+https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mate-tools/srl-4.21.tgz
+https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mate-tools/CoNLL2009-ST-English-ALL.anna-3.3.srl-4.1.srl.model
+https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mate-tools/CoNLL2009-ST-English-ALL.anna-3.3.parser.model
+https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mate-tools/CoNLL2009-ST-English-ALL.anna-3.3.postagger.model
+https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mate-tools/CoNLL2009-ST-English-ALL.anna-3.3.lemmatizer.model
+http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip
