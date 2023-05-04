@@ -88,6 +88,8 @@ def xclingo():
         os.system(command)
         command = "cat %s >> %s" % (outputfile, masteroutputfile)
         os.system(command)
+    with open(masteroutputfile, 'r') as f:
+        print(f.read())
 
 
 filename = os.path.basename(argv[1]).replace('.txt', '')

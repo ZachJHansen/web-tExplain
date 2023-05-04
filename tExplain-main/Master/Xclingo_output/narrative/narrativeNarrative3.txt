@@ -1,0 +1,6 @@
+Answer 1
+  *
+  |__football is located at hallway
+  |  |__mary moved to hallway in sentence 17
+  |  |__since mary obtained the football in sentence 15
+

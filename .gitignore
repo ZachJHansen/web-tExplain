@@ -1,0 +1,134 @@
+tExplain-main/.idea
+
+tExplain-main/CALM/clingo/examples
+tExplain-main/CALM/output/
+tExplain-main/TestFiles/BABI_Tests/Train/*
+tExplain-main/TestFiles/BABI_Tests/Test/*
+tExplain-main/TestFiles/BABI_Tests/tasks_1-20_v1-2/hn
+tExplain-main/TestFiles/BABI_Tests/tasks_1-20_v1-2/hn-10k
+tExplain-main/TestFiles/BABI_Tests/tasks_1-20_v1-2/shuffled
+tExplain-main/TestFiles/BABI_Tests/tasks_1-20_v1-2/shuffled-10k
+tExplain-main/TestFiles/BABI_Tests/tasks_1-20_v1-2/en-valid
+tExplain-main/TestFiles/BABI_Tests/tasks_1-20_v1-2/en-valid-10k
+tExplain-main/TestFiles/BABI_Tests/tasks_1-20_v1-2/en-10k
+tExplain-main/Output/BABIParser_Outputs/*
+tExplain-main/Resources/srl-20131216
+tExplain-main/Resources/stanford-corenlp-full-2018-10-05
+tExplain-main/Resources/models
+tExplain-main/Output/Logs/*
+tExplain-main/Output/Text2ALM_Outputs/*
+tExplain-main/Output/VerbNetALMGenerator_Outputs/*
+tExplain-main/Output/BABITestResults/*
+
+# Byte-compiled / optimized / DLL files
+tExplain-main/__pycache__/
+tExplain-main/*.py[cod]
+tExplain-main/*$py.class
+
+# C extensions
+tExplain-main/*.so
+
+# Distribution / packaging
+tExplain-main/.Python
+tExplain-main/build/
+tExplain-main/develop-eggs/
+tExplain-main/dist/
+tExplain-main/downloads/
+tExplain-main/eggs/
+tExplain-main/.eggs/
+tExplain-main/lib/
+tExplain-main/lib64/
+tExplain-main/parts/
+tExplain-main/sdist/
+tExplain-main/var/
+tExplain-main/wheels/
+tExplain-main/*.egg-info/
+tExplain-main/.installed.cfg
+tExplain-main/*.egg
+tExplain-main/MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+tExplain-main/*.manifest
+tExplain-main/*.spec
+
+# Installer logs
+tExplain-main/pip-log.txt
+tExplain-main/pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+tExplain-main/htmlcov/
+tExplain-main/.tox/
+tExplain-main/.coverage
+tExplain-main/.coverage.*
+tExplain-main/.cache
+tExplain-main/nosetests.xml
+tExplain-main/coverage.xml
+tExplain-main/*.cover
+tExplain-main/.hypothesis/
+tExplain-main/.pytest_cache/
+
+# Translations
+tExplain-main/*.mo
+tExplain-main/*.pot
+
+# Django stuff:
+tExplain-main/*.log
+tExplain-main/local_settings.py
+tExplain-main/db.sqlite3
+
+# Flask stuff:
+tExplain-main/instance/
+tExplain-main/.webassets-cache
+
+# Scrapy stuff:
+tExplain-main/.scrapy
+
+# Sphinx documentation
+tExplain-main/docs/_build/
+
+# PyBuilder
+tExplain-main/target/
+
+# Jupyter Notebook
+tExplain-main/.ipynb_checkpoints
+
+# pyenv
+tExplain-main/.python-version
+
+# celery beat schedule file
+tExplain-main/celerybeat-schedule
+
+# SageMath parsed files
+tExplain-main/*.sage.py
+
+# Environments
+tExplain-main/.env
+tExplain-main/.venv
+tExplain-main/env/
+tExplain-main/venv/
+tExplain-main/ENV/
+tExplain-main/env.bak/
+tExplain-main/venv.bak/
+
+# Spyder project settings
+tExplain-main/.spyderproject
+tExplain-main/.spyproject
+
+# Rope project settings
+tExplain-main/.ropeproject
+
+# mkdocs documentation
+tExplain-main//site
+
+# mypy
+tExplain-main/.mypy_cache/
+
+# don't ignore the __init__ files in the output directories.
+tExplain-main/!Output/BABIParser_Outputs/__init__.py
+tExplain-main/!Output/Logs/__init__.py
+tExplain-main/!Output/Text2ALM_Outputs/__init__.py
+tExplain-main/!Output/VerbNetALMGenerator_Outputs/__init__.py
+tExplain-main/!Output/BABITestResults/__init__.py
+tExplain-main/config.ini

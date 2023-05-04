@@ -1,6 +1,7 @@
 import os
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
+import subprocess
 
 from .forms import InputForm, OutputForm
 
@@ -34,7 +35,7 @@ def output(request):
             outp = "Error running Anthem-P2P!\n"
         form = OutputForm({
             'narrative': rp['narrative'],
-            'output': code})
+            'output': code.decode("utf-8")})
         return render(request, 'output.html', {'form': form})
 
 
@@ -45,7 +46,8 @@ def run_texplain(raw_map):
     command = "python runbAbI.py ../narrative.txt"
     old = os.getcwd()
     os.chdir("tExplain-main")
-    print(os.getcwd())
-    os.system(command)
+    # print(os.getcwd())
+    # output = os.system(command)
+    output = subprocess.check_output(command, shell=True)
     os.chdir(old)
-    return raw_map
+    return output
