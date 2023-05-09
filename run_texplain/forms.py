@@ -3,6 +3,8 @@ from django import forms
 
 class InputForm(forms.Form):
     time_limit = forms.CharField(max_length=100, required=False)
+    output = forms.CharField(required=False, widget=forms.Textarea(
+        attrs={"id": "output", "readonly": "readonly"}))
     narrative = forms.CharField(
         widget=forms.Textarea(attrs={"class": "form-control"}),
         initial='''1 Mary moved to the bathroom.

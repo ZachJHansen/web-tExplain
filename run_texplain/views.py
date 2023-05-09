@@ -1,4 +1,6 @@
 import os
+import re
+from datetime import datetime
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
 import subprocess
@@ -31,23 +33,44 @@ def output(request):
         form = InputForm(rp)
         if form.is_valid():
             code = run_texplain(form.cleaned_data)
-        if code != 0:
-            outp = "Error running Anthem-P2P!\n"
-        form = OutputForm({
-            'narrative': rp['narrative'],
-            'output': code.decode("utf-8")})
+        if code == 0:
+            outp = "Error running tExplain!\n"
+            form = OutputForm({
+                'narrative': rp['narrative'],
+                'output': outp})
+        else:
+            form = OutputForm({
+                'narrative': rp['narrative'],
+                'output': code.decode("utf-8")})
         return render(request, 'output.html', {'form': form})
 
 
 def run_texplain(raw_map):
-    with open("narrative.txt", "w") as f:
-        f.writelines(raw_map["narrative"])
-    f.close()
-    command = "python runbAbI.py ../narrative.txt"
+    narrative = "Master/Narratives/" + \
+        datetime.now().strftime("%d-%m-%Y-%H-%M-%S") + ".txt"
+    # narrative = "narrative.txt"
+    print(narrative)
     old = os.getcwd()
     os.chdir("tExplain-main")
-    # print(os.getcwd())
+    with open(narrative, "w") as f:
+        f.writelines(raw_map["narrative"])
+    f.close()
+
+    # list_of_files = os.listdir('Master/Narratives/')
+    # full_path = ["Master/Narratives/{0}".format(x) for x in list_of_files]
+
+    # if len(list_of_files) >= 40:
+    #     oldest_file = min(full_path, key=os.path.getctime)
+    #     os.remove(oldest_file)
+
+    # os.chdir(old)
+
+    command = "python runbAbI.py " + narrative
+    print(os.getcwd())
     # output = os.system(command)
-    output = subprocess.check_output(command, shell=True)
-    os.chdir(old)
-    return output
+    try:
+        return subprocess.check_output(command, shell=True)
+    except Exception as e:
+        return 0
+    finally:
+        os.chdir(old)
