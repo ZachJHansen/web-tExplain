@@ -1,0 +1,11 @@
+Answer 1
+  *
+  |__football is located at bathroom
+  |  |__mary moved to bathroom in sentence 6
+  |  |__since mary obtained the football in sentence 3
+
+  *
+  |__football is located at bathroom
+  |  |__mary moved to bathroom in sentence 6
+  |  |__since mary dropped the football in sentence 12
+

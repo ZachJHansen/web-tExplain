@@ -1,0 +1,11 @@
+Answer 1
+  *
+  |__apple is located at hallway
+  |  |__sandra moved to hallway in sentence 10
+  |  |__since sandra obtained the apple in sentence 16
+
+  *
+  |__apple is located at hallway
+  |  |__sandra moved to hallway in sentence 10
+  |  |__since sandra dropped the apple in sentence 21
+

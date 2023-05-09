@@ -117,7 +117,7 @@ process(filename)
 
 # GENERATE CLINGO LOGIC PROGRAMS
 os.chdir(baseDir)
-# getLogicPrograms(filename)
+getLogicPrograms(filename)
 
 # GENERATE QUERIES
 command = "python query.py %s %s" % (argv[1], queriesDir)

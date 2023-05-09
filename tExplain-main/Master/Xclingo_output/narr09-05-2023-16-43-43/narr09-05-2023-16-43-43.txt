@@ -1,0 +1,45 @@
+Answer 1
+  *
+  |__football is located at bathroom
+  |  |__mary moved to bathroom in sentence 6
+  |  |__since mary obtained the football in sentence 3
+
+Answer 1
+  *
+  |__football is located at bathroom
+  |  |__mary moved to bathroom in sentence 6
+  |  |__since mary obtained the football in sentence 3
+
+  *
+  |__football is located at bathroom
+  |  |__mary moved to bathroom in sentence 6
+  |  |__since mary dropped the football in sentence 12
+
+Answer 1
+  *
+  |__football is located at hallway
+  |  |__mary moved to hallway in sentence 17
+  |  |__since mary obtained the football in sentence 15
+
+Answer 1
+  *
+  |__apple is located at hallway
+  |  |__sandra moved to hallway in sentence 10
+  |  |__since sandra dropped the apple in sentence 21
+
+  *
+  |__apple is located at hallway
+  |  |__sandra moved to hallway in sentence 10
+  |  |__since sandra obtained the apple in sentence 16
+
+Answer 1
+  *
+  |__milk is located at kitchen
+  |  |__john moved to kitchen in sentence 28
+  |  |__since john dropped the milk in sentence 29
+
+  *
+  |__milk is located at kitchen
+  |  |__john moved to kitchen in sentence 28
+  |  |__since john obtained the milk in sentence 13
+

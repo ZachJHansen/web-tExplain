@@ -1,6 +1,7 @@
 import os
 import re
 from datetime import datetime
+import shutil
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
 import subprocess
@@ -46,7 +47,7 @@ def output(request):
 
 
 def run_texplain(raw_map):
-    narrative = "Master/Narratives/" + \
+    narrative = "Master/Narratives/narr" + \
         datetime.now().strftime("%d-%m-%Y-%H-%M-%S") + ".txt"
     # narrative = "narrative.txt"
     print(narrative)
@@ -56,21 +57,37 @@ def run_texplain(raw_map):
         f.writelines(raw_map["narrative"])
     f.close()
 
-    # list_of_files = os.listdir('Master/Narratives/')
-    # full_path = ["Master/Narratives/{0}".format(x) for x in list_of_files]
-
-    # if len(list_of_files) >= 40:
-    #     oldest_file = min(full_path, key=os.path.getctime)
-    #     os.remove(oldest_file)
-
-    # os.chdir(old)
+    deleteTempFiles("Master/Narratives/")
+    deleteTempFiles("Master/Tuples/")
+    deleteTempFiles("Master/LogicPrograms/")
+    deleteTempFiles("Output/Text2ALM_Outputs/")
 
     command = "python runbAbI.py " + narrative
-    print(os.getcwd())
-    # output = os.system(command)
+    # command = ""
+
     try:
         return subprocess.check_output(command, shell=True)
     except Exception as e:
         return 0
     finally:
         os.chdir(old)
+
+def sorted_ls(path):
+    mtime = lambda f: os.stat(os.path.join(path, f)).st_mtime
+    return list(sorted(os.listdir(path), key=mtime))
+
+def deleteTempFiles(path):
+    valuable_files = ["process.py"]
+    max_Files = 50
+    del_list = sorted_ls(path)[0:(len(sorted_ls(path))-max_Files)]
+    # print(del_list)
+    full_path = [path+"{0}".format(x) for x in del_list]
+
+    for fi in full_path:
+        if os.path.isdir(fi):
+            print("Will delete DIRECTORY:" + fi)
+            shutil.rmtree(fi)
+        else:
+            if not fi.endswith(".py"):
+                print("Will delete FILE:" + fi)
+                os.remove(fi)
