@@ -33,44 +33,45 @@ def output(request):
         rp = request.POST
         form = InputForm(rp)
         if form.is_valid():
-            code = run_texplain(form.cleaned_data)
-        if code == 0:
-            outp = "Error running tExplain!\n"
-            form = OutputForm({
-                'narrative': rp['narrative'],
-                'output': outp})
+            outp = run_texplain(form.cleaned_data)
         else:
-            form = OutputForm({
-                'narrative': rp['narrative'],
-                'output': code.decode("utf-8")})
+            outp = 'invalid form'
+        form = OutputForm({
+            'narrative': rp['narrative'],
+            'output': outp})
         return render(request, 'output.html', {'form': form})
 
 
 def run_texplain(raw_map):
+    print("here we are")
     narrative = "Master/Narratives/narr" + \
         datetime.now().strftime("%d-%m-%Y-%H-%M-%S") + ".txt"
-    # narrative = "narrative.txt"
-    print(narrative)
     old = os.getcwd()
     os.chdir("tExplain-main")
     with open(narrative, "w") as f:
         f.writelines(raw_map["narrative"])
     f.close()
 
+    command = "python runbAbI.py " + narrative
+
+    ret_code = 0
+    try:
+        outp = subprocess.run(command, capture_output=True, shell=True)
+        outp.check_returncode()
+    except:
+        ret_code = 1
+
     deleteTempFiles("Master/Narratives/")
     deleteTempFiles("Master/Tuples/")
     deleteTempFiles("Master/LogicPrograms/")
     deleteTempFiles("Output/Text2ALM_Outputs/")
 
-    command = "python runbAbI.py " + narrative
-    # command = ""
+    os.chdir(old)
 
-    try:
-        return subprocess.check_output(command, shell=True)
-    except Exception as e:
-        return 0
-    finally:
-        os.chdir(old)
+    if ret_code != 0:
+        return outp.stderr
+    else:
+        return outp.stdout
 
 def sorted_ls(path):
     mtime = lambda f: os.stat(os.path.join(path, f)).st_mtime
