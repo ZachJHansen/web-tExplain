@@ -61,6 +61,8 @@ def run_texplain(raw_map):
     except:
         ret_code = 1
 
+    print("heeeere")
+
     deleteTempFiles("Master/Narratives/")
     deleteTempFiles("Master/Tuples/")
     deleteTempFiles("Master/LogicPrograms/")
